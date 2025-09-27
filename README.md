@@ -1,2 +1,3 @@
 # CS2---AI-Aimbot-Hack
 Educational purposes only!!!: AI aiming research and simulation — for single-player/simulated use only. I am not responsible for misuse or bans
+This repository contains code and experiments for an AI aiming research project created for a university assignment. It is provided for educational and research purposes only and is intended to run in controlled, single-player or simulated environments. Do not use this code to modify, interfere with, or gain an unfair advantage in online multiplayer games; doing so may violate game Terms of Service and result in account sanctions. I am not responsible for any misuse, bans, or other consequences that result from running this code in prohibited contexts.
